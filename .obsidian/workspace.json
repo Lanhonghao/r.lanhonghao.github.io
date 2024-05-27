@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "a382ce49469dce6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b04858c5e38423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75f384e16d9636f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "蓝宏浩-18319368871_200701.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddadf3f9f5eb1331",
+    "type": "split",
+    "children": [
+      {
+        "id": "f30d7eada0f5b1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e77d8dc5a109e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71c643b6458b5cfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d986403d180839a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8eb15b0f18f152e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e24aeed9b4ec15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503a6a02e5d34e27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "蓝宏浩-18319368871_200701.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfdd7179489246f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "蓝宏浩-18319368871_200701.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed117efab1de6c6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d252921775e53608",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "蓝宏浩-18319368871_200701.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "33e77d8dc5a109e0",
+  "lastOpenFiles": [
+    "README.md",
+    "RESUME_LANHONGHAO_HQ.md",
+    "RESUME_LANHONGHAO_HLJIT.md",
+    "蓝宏浩-18319368871_200701.pdf",
+    "简历_蓝宏浩_18319368871_240310.pdf"
+  ]
+}
