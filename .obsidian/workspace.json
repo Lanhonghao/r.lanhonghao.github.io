@@ -11,9 +11,11 @@
             "id": "e75f384e16d9636f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "蓝宏浩-18319368871_200701.pdf"
+                "file": "RESUME_LANHONGHAO_HQ.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蓝宏浩-18319368871_200701.pdf",
+                "file": "RESUME_LANHONGHAO_HQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "蓝宏浩-18319368871_200701.pdf",
+                "file": "RESUME_LANHONGHAO_HQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蓝宏浩-18319368871_200701.pdf"
+                "file": "RESUME_LANHONGHAO_HQ.md"
               }
             }
           }
@@ -144,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33e77d8dc5a109e0",
+  "active": "e75f384e16d9636f",
   "lastOpenFiles": [
+    "蓝宏浩-18319368871_200701.pdf",
     "README.md",
     "RESUME_LANHONGHAO_HQ.md",
     "RESUME_LANHONGHAO_HLJIT.md",
-    "蓝宏浩-18319368871_200701.pdf",
     "简历_蓝宏浩_18319368871_240310.pdf"
   ]
 }
